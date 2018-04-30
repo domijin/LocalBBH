@@ -2,8 +2,9 @@
 My PhD project on study the prospects on detecting binary black holes dynamically formed in globular clusters with space-borne gravitational wave detectors
 
 * TOC
-	* <a name="Current"></a>
-	* <a name="Extra"></a>
+	* [Current Updates](#Current)
+	* [Extra Projects and Interest](#Extra)
+	* [Resume for NLP/Data Science - 03/24/2018 cache](https://www.dropbox.com/s/jjgqut6rgm7md0e/resume2018.pdf?dl=0)
 
 
 ## [Opening Notes]
@@ -168,6 +169,42 @@ Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en
 
 
 ## <a name="Extra"></a> Extra Projects and Interests
+
+### Involvement 
+
+1. LSSTC Data Science Fellowship Program [LSSTC DSFP](http://ciera.northwestern.edu/Education/LSSTC_Students.php)
+
+2. International Conference on Data Intelligence and Security [ICDIS 2018](https://www.icdis.org/)
+
+3. Rockets & Rigs [R&R](http://rocketsandrigs.org/)
+
+<!-- 4. Consulting Board on startup -->
+
+
+### Interests - 4/30/2018 Cache
+
+1. Quantum Computing, @ [IBM](https://www.research.ibm.com/ibm-q/)
+
+2. Human Genomics sequencing and analysis @ [Human Longevity, INC.](https://www.humanlongevity.com/)
+
+3. Dietary Health and Ingestion Study,  @ [Viome](https://viome.com/)
+
+4. Future Transportations and City Planning, @ [Boring Company](https://www.boringcompany.com/)
+
+5. Security and Privacy, @ [Cloudflare](https://www.cloudflare.com/)
+
+... To be added
+
+
+### Side projects
+
+... To be organized and added
+
+
+
+
+
+
 
 
 
