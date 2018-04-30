@@ -1,6 +1,9 @@
 # LocalBBH
 My PhD project on study the prospects on detecting binary black holes dynamically formed in globular clusters with space-borne gravitational wave detectors
 
+
+[Temporate slideshow host](http://vpn.domij.info/), rendered by [reveal.js](http://revealjs.com/)
+
 * TOC
 	* [Current Updates](#Current)
 	* [Extra Projects and Interest](#Extra)
@@ -153,7 +156,7 @@ __In Preparation__
 
 1. based on the PhD work from [Dr.
 Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en)
-    1. use PSO optimizer from his PhD advisor[Dr. Mohanty](https://arxiv.org/abs/1506.01526)
+    1. use PSO optimizer from his PhD advisor [Dr. Mohanty](https://arxiv.org/abs/1506.01526)
     2. need to work on the inverse of ill-conditioned matrix, try [Tikanamov's work]
 
 
