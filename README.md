@@ -149,8 +149,12 @@ __In Preparation__
 
 2. A Data Science Approach Towards the Local Abundance of Globular Clusters
 
-3. Network Coherent Analysis on the Local Binary Black Holes, see <a name="NCA"></a>
+### <a name="NCA"></a> Update localization analysis with Network Coherent Analysis from LIGO - 4/28/2018
 
+1. based on the PhD work from [Dr.
+Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en)
+    1. use PSO optimizer from his PhD advisor[Dr. Mohanty](https://arxiv.org/abs/1506.01526)
+    2. need to work on the inverse of ill-conditioned matrix, try [Tikanamov's work]
 
 
 ### Data Management and Release
@@ -160,15 +164,32 @@ __In Preparation__
 2. Local Binary Black Holes (dynamically formed and ejected from globular clusters) Database
 
 
-### <a name="NCA"></a> Update localization analysis with Network Coherent Analysis from LIGO - 4/28/2018
 
-1. based on the PhD work from [Dr.
-Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en)
-	1. use PSO optimizer from his PhD advisor[Dr. Mohanty](https://arxiv.org/abs/1506.01526)
-	2. need to work on the inverse of ill-conditioned matrix, try [Tikanamov's work]
+### Collaborations
+
+1. 2013 Summer: Dr. Rainer Spurzem and Dr. Peter Berczik at NAO/CAS 
+    * N-body6++ and HPC techniques
+    * Simulation on superclusters
+
+2. [2015 Summer](http://kiaa.pku.edu.cn/visitor/dongming-jin): Dr. Licai Deng at NAO/CAS, and Dr. Richard de Grijs at KIAA/Peking University
+    * photometry data process pipeline
+    * time series data analysis
+    * data management and release
+
+3. MOCCA: Dr. Mirek Giersz
+    * Monte Carlo simulations
+
+4. LOFASM: Dr. Teviet Creighton
+    * coherence analysis for radio spectrum
+
+5. Network Coherence Analysis: 
+    * Network Coherent Analysis on the Local Binary Black Holes, see [Network Coherrent Analysis](#NCA)
+
+
 
 
 ## <a name="Extra"></a> Extra Projects and Interests
+
 
 ### Involvement 
 
@@ -179,6 +200,7 @@ Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en
 3. Rockets & Rigs [R&R](http://rocketsandrigs.org/)
 
 <!-- 4. Consulting Board on startup -->
+
 
 
 ### Interests - 4/30/2018 Cache
@@ -193,7 +215,12 @@ Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en
 
 5. Security and Privacy, @ [Cloudflare](https://www.cloudflare.com/)
 
+6. various, @ [Google X](https://x.company/)
+
+
+
 ... To be added
+
 
 
 ### Side projects
