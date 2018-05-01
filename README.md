@@ -2,7 +2,7 @@
 My PhD project on study the prospects on detecting binary black holes dynamically formed in globular clusters with space-borne gravitational wave detectors
 
 
-[Temporate slideshow host](http://vpn.domij.info/), rendered by [reveal.js](http://revealjs.com/)
+[Temporary slide show host](http://vpn.domij.info/), rendered by [reveal.js](http://revealjs.com/)
 
 * TOC
 	* [Current Updates](#Current)
@@ -11,6 +11,9 @@ My PhD project on study the prospects on detecting binary black holes dynamicall
 
 
 ## [Opening Notes]
+
+
+[Notes]
 
 
 During my PhD study, I've been questioning about, what is re-search.
@@ -54,7 +57,7 @@ In a nutshell,
 
 * smaller systems like open clusters cannot stay gravitationally-binded
     * stars are easily scattered away and they will evaporate before long
-    * there are also enough materials to power multiple generation of star formationss
+    * there are also enough materials to power multiple generation of star formations
 * larger systems like galaxies instead, have strong gravitational potentials
     * most of the stars are trapped and move under a quasi-static field
     * the system could be described as statistical equilibrium,
@@ -70,8 +73,8 @@ I will expand on that by populating globular clusters in the local universe, whi
 
 Then I had this chance to study about numerical simulations.
 
-* I spent the 2013 summer in National Astronomical Observatories, Chinese Academy of Science to study about N-body models [with Rainer Spurzem], using Newtonian integrator to solve dynamical interactions.
-* I also [met with Jonathon Downing and] picked up the Monte Carlo code [from Mirek Giersz] to evaluate the phase-space evolution in a semi-equilibrium system. 
+* I spent the 2013 summer in National Astronomical Observatories, Chinese Academy of Science to study about N-body models with [Rainer Spurzem](http://kiaa.pku.edu.cn/faculty/rainer-spurzem), using Newtonian integrator to solve dynamical interactions.
+* I also [met with Jonathon Downing and] picked up the Monte Carlo code from [Mirek Giersz](https://www.camk.edu.pl/en/people/staff/mig/) to evaluate the phase-space evolution in a semi-equilibrium system. 
 
 Both approaches provide great details about stellar dynamics based on theoretical assumptions.
 
@@ -98,7 +101,7 @@ are discussed in my dissertation in corresponding sections. I will only briefly 
 From those simulations, I could extract any interesting stellar object with its full dynamical history, especially the compact binary systems that could be potentially the gravitational wave sources in different frequency domain. 
 
 * I spent 2015 summer at Kavli Institute of Astrophysics and Astronomy in Peking University doing data analysis by querying observational databases for variable sources, 
-* I visited National Astronomical Observatories, Chinese Academy of Science again to prototype a transient object detection pipeline for 50cm Binocular Network.
+* I visited National Astronomical Observatories, Chinese Academy of Science again to prototype a transient object detection pipeline for 50cm Binocular Network with [Licai Deng](http://sourcedb.naoc.cas.cn/en/enaoexpert/200907/t20090706_2000374.html) and [Richard de Grijs](http://kiaa.pku.edu.cn/faculty/richard-de-grijs).
 
 The mutual benefits supplemented my experience in optical data processing that promoted my understanding on time series data analysis. 
 
@@ -127,6 +130,7 @@ From all the above, a clear image appeared
 * within 30 Mpc volumetric space
 * for space-borne GW detectors
 
+
 I followed
 
 * the Fixer Informative Matrix analysis from Cutler and 
@@ -134,9 +138,11 @@ I followed
 
 This part of work is included in chapter 6. 
 
+
 -----
 
 Without further ado, I will walk through the work manuscript-ed in my dissertation in brief and let you question about any part that is particular interesting to your extent.
+
 
 -----
 
@@ -156,7 +162,7 @@ __In Preparation__
 
 1. based on the PhD work from [Dr.
 Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en)
-    1. use PSO optimizer from his PhD advisor [Dr. Mohanty](https://arxiv.org/abs/1506.01526)
+    1. use PSO optimizer from his PhD advisor [Dr. Soumya D. Mohanty](https://arxiv.org/abs/1506.01526)
     2. need to work on the inverse of ill-conditioned matrix, try [Tikanamov's work]
 
 
@@ -179,7 +185,7 @@ Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en
     * time series data analysis
     * data management and release
 
-3. MOCCA: Dr. Mirek Giersz
+3. [MOCCA](https://moccacode.net/): Dr. Mirek Giersz
     * Monte Carlo simulations
 
 4. LOFASM: Dr. Teviet Creighton
@@ -187,7 +193,6 @@ Shihan Weerathunga](https://scholar.google.com/citations?user=qtaTE_oAAAAJ&hl=en
 
 5. Network Coherence Analysis: 
     * Network Coherent Analysis on the Local Binary Black Holes, see [Network Coherrent Analysis](#NCA)
-
 
 
 
