@@ -2,11 +2,12 @@
 My PhD project on study the prospects on detecting binary black holes dynamically formed in globular clusters with space-borne gravitational wave detectors
 
 
-[Temporary slide show host](http://vpn.domij.info/), rendered by [reveal.js](http://revealjs.com/)
+[Temporary slide show host](http://dongming.uta.cloud/), rendered by [reveal.js](http://revealjs.com/)
 
 * TOC
 	* [Current Updates](#Current)
 	* [Extra Projects and Interest](#Extra)
+	* [Resume for postdoctoral Position - 05/26/2018 cache](https://www.dropbox.com/s/1wlly1jqt7t92jx/Dongming%20Jin%20-%20UTA%20-%20Physics%20-%202018%20PhD.pdf?dl=0)
 	* [Resume for NLP/Data Science - 03/24/2018 cache](https://www.dropbox.com/s/jjgqut6rgm7md0e/resume2018.pdf?dl=0)
 
 
