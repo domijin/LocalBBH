@@ -4,7 +4,7 @@ My PhD project on study the prospects on detecting binary black holes dynamicall
 
 ## Doctoral Dissertation
 
-![](https://www.dropbox.com/s/4tfsat7hs0nz37x/all-sky.jpeg?dl=1)
+![](http://dongming.uta.cloud/images/all-sky.jpeg)
 
 - [Dissertation Report](/pdfs/report.html): you can find how I analyze the data and derive my conclusion.
 - [Defense Slides](/pdfs/report.slides.html): it is rendered with `reveal.js`. Use `?` for keyboard shortcuts. 
